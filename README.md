@@ -68,12 +68,15 @@ A full-stack e-commerce shopping cart application with Go backend and React fron
 
 2. Update the `.env` file with your Supabase credentials:
    ```
-   DB_HOST=your-supabase-host
+   DB_HOST=<your-supabase-host>
    DB_PORT=5432
    DB_NAME=postgres
    DB_USER=postgres
-   DB_PASSWORD=your-password
-   PORT=8080
+   DB_PASSWORD=<your-database-password>
+
+# Server Port
+    PORT=8080
+
    ```
 
 3. Install dependencies:
