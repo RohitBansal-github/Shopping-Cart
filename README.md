@@ -74,7 +74,7 @@ A full-stack e-commerce shopping cart application with Go backend and React fron
    DB_USER=postgres
    DB_PASSWORD=<your-database-password>
 
-# Server Port
+   # Server Port
     PORT=8080
 
    ```
